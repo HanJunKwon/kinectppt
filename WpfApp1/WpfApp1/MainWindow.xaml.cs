@@ -19,15 +19,16 @@ namespace WpfApp1
 
     public partial class MainWindow : Window
     {
-        public MainWindow()
+        public MainWindow() // 생성자
         {
-            InitializeComponent();
-            InitializeNui();
+            InitializeComponent(); // 컴포넌트 초기화
+            InitializeNui(); // NUI초기화
         }
 
-        KinectSensor nui = null;
+        KinectSensor nui = null; // 키넥트 센서 객체 생성
 
-        void InitializeNui(){
+        // NUI를 초기화해주는 함수 생성
+        void InitializeNui(){ 
             nui = KinectSensor.KinectSensors[0];
 
             nui.ColorStream.Enable();

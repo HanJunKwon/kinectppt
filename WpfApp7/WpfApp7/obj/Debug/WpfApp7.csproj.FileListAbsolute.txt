@@ -3,3 +3,19 @@ c:\users\vault\onedrive\documents\visual studio 2017\Projects\WpfApp7\WpfApp7\ob
 c:\users\vault\onedrive\documents\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\App.g.cs
 c:\users\vault\onedrive\documents\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.cache
 c:\users\vault\onedrive\documents\visual studio 2017\Projects\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.lref
+D:\3학년1학기\start-up\123123\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe.config
+D:\3학년1학기\start-up\123123\WpfApp7\WpfApp7\bin\Debug\WpfApp7.exe
+D:\3학년1학기\start-up\123123\WpfApp7\WpfApp7\bin\Debug\WpfApp7.pdb
+D:\3학년1학기\start-up\123123\WpfApp7\WpfApp7\bin\Debug\Microsoft.Kinect.dll
+D:\3학년1학기\start-up\123123\WpfApp7\WpfApp7\bin\Debug\Microsoft.Kinect.xml
+D:\3학년1학기\start-up\123123\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csprojResolveAssemblyReference.cache
+D:\3학년1학기\start-up\123123\WpfApp7\WpfApp7\obj\Debug\MainWindow.g.cs
+D:\3학년1학기\start-up\123123\WpfApp7\WpfApp7\obj\Debug\App.g.cs
+D:\3학년1학기\start-up\123123\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.cache
+D:\3학년1학기\start-up\123123\WpfApp7\WpfApp7\obj\Debug\WpfApp7_MarkupCompile.lref
+D:\3학년1학기\start-up\123123\WpfApp7\WpfApp7\obj\Debug\MainWindow.baml
+D:\3학년1학기\start-up\123123\WpfApp7\WpfApp7\obj\Debug\WpfApp7.g.resources
+D:\3학년1학기\start-up\123123\WpfApp7\WpfApp7\obj\Debug\WpfApp7.Properties.Resources.resources
+D:\3학년1학기\start-up\123123\WpfApp7\WpfApp7\obj\Debug\WpfApp7.csproj.GenerateResource.Cache
+D:\3학년1학기\start-up\123123\WpfApp7\WpfApp7\obj\Debug\WpfApp7.exe
+D:\3학년1학기\start-up\123123\WpfApp7\WpfApp7\obj\Debug\WpfApp7.pdb

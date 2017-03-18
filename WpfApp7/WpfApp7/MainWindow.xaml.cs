@@ -84,7 +84,7 @@ namespace WpfApp7
 
         long m_SaveTime = 0;
 
-        void nui_AllFramesReady(object sender, SkeletonFrameReadyEventArgs e)
+        void nui_AllFramesReady(object sender, AllFramesReadyEventArgs e)
         {
             SkeletonFrame sf = e.OpenSkeletonFrame();
             if (sf == null) return;
